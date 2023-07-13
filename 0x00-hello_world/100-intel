@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S -masm=intel $CFILEZZ
+gcc -S -masm=intel $CFILE
